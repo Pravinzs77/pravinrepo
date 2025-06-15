@@ -26,5 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pravinzs77&show_icons=true&locale=en" alt="pravinzs77" /></p>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="praveen-kumar-2a22b03a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/praveen-kumar-2a22b03a?trk=profile-badge">Praveen Kumar</a></div>
-              
+
